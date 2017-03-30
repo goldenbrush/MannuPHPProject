@@ -10,19 +10,19 @@
     <!-- #row1 -->
       <div class="row contry-listing">
           <div class="col-md-4">
-            <a href="#" class="thumbnail">
+            <a href="india.php" class="thumbnail">
             <img class="img-responsive" src="images/flags/i_flags/India.gif" width="150" height="100" />
             <span class="contry-name">India</span>
             </a>
           </div>
             <div class="col-md-4">
-            <a href="#" class="thumbnail">
+            <a href="iraq.php" class="thumbnail">
             <img class="img-responsive" src="images/flags/i_flags/Iraq.gif" width="150" height="100" />
             <span class="contry-name">Iraq</span>
             </a>
           </div>
           <div class="col-md-4">
-            <a href="#" class="thumbnail">
+            <a href="indonesia.php" class="thumbnail">
             <img class="img-responsive" src="images/flags/i_flags/Indonesia.gif" width="150" height="100" />
             <span class="contry-name">Indonesia</span>
             </a>
@@ -31,7 +31,7 @@
       <!-- #row2 -->
       <div class="row contry-listing">
           <div class="col-md-4">
-            <a href="#" class="thumbnail">
+            <a href="italy.php" class="thumbnail">
             <img class="img-responsive" src="images/flags/i_flags/Italy.gif" width="150" height="100" />
             <span class="contry-name">Italy</span>
             </a>

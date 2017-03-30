@@ -10,13 +10,13 @@
     <!-- #row1 -->
       <div class="row contry-listing">
           <div class="col-md-4">
-            <a href="#" class="thumbnail">
+            <a href="japan.php" class="thumbnail">
             <img class="img-responsive" src="images/flags/j_flags/Japan.gif" width="150" height="100" />
             <span class="contry-name">Japan</span>
             </a>
           </div>
           <div class="col-md-4">
-            <a href="#" class="thumbnail">
+            <a href="jordan.php" class="thumbnail">
             <img class="img-responsive" src="images/flags/j_flags/Jordan.gif" width="150" height="100" />
             <span class="contry-name">Jordan</span>
             </a>

@@ -17,11 +17,11 @@
             <li class="dropdown">
               <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Continents <span class="caret"></span></a>
               <ul class="dropdown-menu">
-                <li><a href="#">Africa</a></li>
-                <li><a href="#">The Americas</a></li>
-                <li><a href="#">Asia</a></li>
-                <li><a href="#">Europe</a></li>
-                <li><a href="#">Australia/Oceania</a></li>
+                <li><a href="country_listing_africa.php">Africa</a></li>
+                <li><a href="country_listing_america.php">The Americas</a></li>
+                <li><a href="country_listing_asia.php">Asia</a></li>
+                <li><a href="country_listing_europe.php">Europe</a></li>
+                <li><a href="country_listing_austrailia.php">Australia/Oceania</a></li>
               </ul>
             </li>
       

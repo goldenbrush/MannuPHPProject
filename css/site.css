@@ -5,6 +5,10 @@ body{
 h1{
     margin-top: 0;
 }
+.panel-success
+{
+		margin-top : 36px;
+}
 
 .navbar-default{
     background-color: #ffffff;

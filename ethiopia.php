@@ -6,7 +6,7 @@
 
 <!-- content start -->
 <div class="container page-height">
-    <h1>Russia</h1>
+    <h1>Ethiopia</h1>
     <div class="row">
         <div class="col-md-8">
             <!--#1-->
